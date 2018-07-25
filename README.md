@@ -1,2 +1,2 @@
 # snake
-игра написанная на Java + Swing
+game written in Java + Swing
